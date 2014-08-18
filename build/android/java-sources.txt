@@ -1,0 +1,7 @@
+"/Titanium/AppC_project/AcsTest/build/android/gen/android/support/v7/appcompat/R.java"
+"/Titanium/AppC_project/AcsTest/build/android/gen/com/bd/testacs/AcstestActivity.java"
+"/Titanium/AppC_project/AcsTest/build/android/gen/com/bd/testacs/AcstestAppInfo.java"
+"/Titanium/AppC_project/AcsTest/build/android/gen/com/bd/testacs/AcstestApplication.java"
+"/Titanium/AppC_project/AcsTest/build/android/gen/com/bd/testacs/ApplicationStylesheet.java"
+"/Titanium/AppC_project/AcsTest/build/android/gen/com/bd/testacs/R.java"
+"/Titanium/AppC_project/AcsTest/build/android/gen/ti/modules/titanium/ui/R.java"

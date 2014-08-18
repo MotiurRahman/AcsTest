@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/gsl001/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "2c3ba36505e9a494c0516811d2595f08",
+	"modulesNativeHash": "1d7141d334315c0d5aa9788ef7f1c0c3",
+	"gitHash": "787cd39",
+	"name": "AcsTest",
+	"id": "com.bd.testacs",
+	"analytics": true,
+	"publisher": "gsl001",
+	"url": "http://",
+	"version": "1.0",
+	"description": "undefined",
+	"copyright": "2014 by gsl001",
+	"guid": "f061de57-2f32-4cc4-99fe-8bc993ec6fae",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
